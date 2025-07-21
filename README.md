@@ -47,7 +47,7 @@ The service ingests the dataset and exposes analytics metrics via a RESTful HTTP
 ### 1. Clone and Download
 
 ```bash
-git https://github.com/vahidpi/EnronProcessor.git
+git clone https://github.com/vahidpi/EnronProcessor.git
 cd EnronProcessor
 ```
 
